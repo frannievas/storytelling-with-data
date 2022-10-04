@@ -1,0 +1,12 @@
+name: storytelling-with-data
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python=3.8.3
+  - ipython=7.12.0
+  - jupyter=1.0.0
+  - numpy=1.20.1
+  - pandas=1.0.5
+  - pip=20.1.1
+  - plotly=5.10.0
