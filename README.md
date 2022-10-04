@@ -6,6 +6,32 @@ An implementation of http://www.storytellingwithdata.com/book/
 :-----------------------------:|
 ![](images/01_simple_text.png)|
 
+# How to setup env
+
+1. Download and install miniconda:
+
+    https://docs.conda.io/en/latest/miniconda.html
+
+2. Clone **https://github.com/frannievas/storytelling-with-data** this repo
+
+3. Create environment from `.yml` file
+
+```shell
+conda env create -f environment.yml
+```
+
+4. Activate environment
+
+```shell
+conda activate conda activate storytelling-with-data
+```
+
+4. Open jupyter notebook on a terminal and navigate to the `notebooks/` folder
+
+```shell
+$> jupyter notebook
+```
+
 # Colors
 ## Gray
 |#231F20  GRAY1. Thunder         |#414040  GRAY2. Tundora          |#555655  GRAY3. Nandor           |#646369  GRAY4. Mid Gray         |#76787B  GRAY5. Rolling Stone    |#828282  GRAY6. Gray             |#929497  GRAY7. Oslo Gray        |#A6A6A5  GRAY8. Delta            |#BFBEBE  GRAY9. Silver           |
