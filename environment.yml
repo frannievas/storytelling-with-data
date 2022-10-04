@@ -10,3 +10,4 @@ dependencies:
   - pandas=1.0.5
   - pip=20.1.1
   - plotly=5.10.0
+  - python-kaleido=0.2.1
